@@ -1,0 +1,11 @@
+{
+  "name": "online24-contact-lambda",
+  "private": true,
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sesv2": "^3.873.0"
+  }
+}
